@@ -1,4 +1,4 @@
-# firebase-realtime-database
+# A Basic Introduction to Firebase and the Realtime Database
 
 A super basic example of displaying data from a Firebase Realtime Database. Follow these steps to get the code up and running:
 
