@@ -30,11 +30,12 @@ npm i firebase
 npx serve src
 ```
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Firebase](https://console.firebase.google.com/) 
-* [SerialPort NPM](https://www.npmjs.com/package/serialport)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
