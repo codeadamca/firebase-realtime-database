@@ -1,4 +1,4 @@
-# A Basic Introduction to Firebase and the Realtime Database
+# Introduction to Firebase and the Realtime Database
 
 A super basic example of displaying data from a Firebase Realtime Database. Follow these steps to get the code up and running:
 
@@ -10,23 +10,23 @@ A super basic example of displaying data from a Firebase Realtime Database. Foll
 
 4. Create a new project using:
 
-```
+```sh
 npm init -y
 ```
 
 5. Then install Firebase:
 
-```
+```sh
 npm i firebase
 ```
 
-6. Create a folder called ```src``` and place the ```index.js``` and ```index.html``` file in the new ```src``` folder. 
+6. Create a folder called `src` and place the `index.js` and `index.html` file in the new `src` folder. 
 
-8. In the index.js file, change the Firebase credentials to your app. Your credentials can be found in the app settings. 
+8. In the `index.js` file, change the Firebase credentials to your app. Your credentials can be found in the app settings. 
 
 9. Test out the code using:
 
-```
+```sh
 npx serve src
 ```
 
